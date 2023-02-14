@@ -1,0 +1,24 @@
+.speech{
+    font-size: 14;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+.direction{
+    background-color:  rgb(199, 216, 199);
+    font-size: 14;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black
+}
+.direction:hover{
+    background-color: rgb(121, 66, 66);
+}
+.LUKA{
+    font-size: 12;
+    color: aquamarine;
+    font-style: italic;
+}
+.MRS.POPOV{
+    font-size: 12;
+    color:aqua;
+    font-style: oblique;
+}

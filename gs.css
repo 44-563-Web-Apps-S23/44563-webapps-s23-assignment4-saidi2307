@@ -47,5 +47,14 @@ table {
     background-color: #f2f2f2;
   }
 
-  
+  .LUKA:hover{
+    text-shadow: 3px 3px rgb(233, 15, 19);
+    filter: blur(1px);
+}
+.MRSPOPOV:hover{
+    text-shadow: 3px 3px rgb(240, 135, 6);
+    filter: blur(1px);
+}
+
+
   
